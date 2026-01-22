@@ -1,6 +1,6 @@
-# 🧮 Scientific Calculator — Python Tkinter
+# Scientific Calculator — Python Tkinter
 
-A modern Android-style **Scientific Calculator Desktop Application** built using **Python and Tkinter**.
+A modern Android-style **Scientific Calculator Desktop Application** built using Python and Tkinter.
 ---
 
 ## ✨ Features
